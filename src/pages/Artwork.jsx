@@ -16,7 +16,7 @@ const Artwork = () => {
       <img className="w-[250px]" src={artwork5} alt="artwork" />
       <img className="w-[250px]" src={artwork6} alt="artwork" />
       <div className="w-[150px] flex flex-col gap-2">
-        <img src={qr} alt="qr" />
+        <img src={qr} alt="qrz" />
         <h3 className="text-custyellow text-sm font-semibold">Some artwork i already made</h3>
       </div>
     </div>
