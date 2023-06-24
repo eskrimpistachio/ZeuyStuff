@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import thunder from '../../public/assets/thunder.png';
+import thunder from '../assets/thunder.png';
 import { useState } from 'react';
 import NavbarMobile from './NavbarMobile';
 

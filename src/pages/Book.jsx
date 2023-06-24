@@ -1,5 +1,5 @@
-import qr from '../../public/assets/sirius.png';
-import apos from '../../public/assets/aposth.png';
+import qr from '../assets/sirius.png';
+import apos from '../assets/aposth.png';
 
 const Book = () => {
   return (

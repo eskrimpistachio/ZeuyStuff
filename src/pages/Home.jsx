@@ -1,6 +1,6 @@
-import spotify from '../../public/assets/spotify.png';
-import pinterest from '../../public/assets/pinterest.png';
-import wattpad from '../../public/assets/wattpad.png';
+import spotify from '../assets/spotify.png';
+import pinterest from '../assets/pinterest.png';
+import wattpad from '../assets/wattpad.png';
 
 const Home = () => {
   return (
