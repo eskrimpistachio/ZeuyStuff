@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="mx-6 flex flex-row justify-between font-poppins my-2">
+      <div className="bg-[#fff8e9] flex flex-row justify-between font-poppins px-4 py-2">
         <a href="/">
           <div className="text-custgreen text-5xl flex flex-row">
             <div className="flex flex-col">

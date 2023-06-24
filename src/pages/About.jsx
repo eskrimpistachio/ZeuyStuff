@@ -3,7 +3,7 @@ import profile from '../assets/profile.jpg';
 
 const About = () => {
   return (
-    <div className="font-poppins flex flex-col gap-4">
+    <div className="font-poppins flex flex-col gap-4 bg-[#fff8e9]">
       <div className="flex gap-16 mx-6 justify-between">
         <h1 className="text-2xl lg:text-4xl text-custgreen font-semibold mt-24 decoration-custyellow underline underline-offset-8">
           About this Person
