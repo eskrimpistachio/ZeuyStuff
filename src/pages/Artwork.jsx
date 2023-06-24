@@ -1,10 +1,10 @@
-import artwork1 from '../assets/artwork1.jpg';
-import artwork2 from '../assets/artwork2.jpg';
-import artwork3 from '../assets/artwork3.jpg';
-import artwork4 from '../assets/artwork4.jpg';
-import artwork5 from '../assets/artwork5.jpg';
-import artwork6 from '../assets/artwork6.jpg';
-import qr from '../assets/qr-artwork.png';
+import artwork1 from '../../public/assets/artwork1.jpg';
+import artwork2 from '../../public/assets/artwork2.jpg';
+import artwork3 from '../../public/assets/artwork3.jpg';
+import artwork4 from '../../public/assets/artwork4.jpg';
+import artwork5 from '../../public/assets/artwork5.jpg';
+import artwork6 from '../../public/assets/artwork6.jpg';
+import qr from '../../public/assets/qr-artwork.png';
 
 const Artwork = () => {
   return (

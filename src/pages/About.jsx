@@ -1,5 +1,5 @@
-import qr from '../assets/qr-z.png';
-import profile from '../assets/profile.jpg';
+import qr from '../../public/assets/qr-z.png';
+import profile from '../../public/assets/profile.jpg';
 
 const About = () => {
   return (

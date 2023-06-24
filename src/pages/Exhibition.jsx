@@ -1,4 +1,4 @@
-import qr from '../assets/qr-artsteps.png';
+import qr from '../../public/assets/qr-artsteps.png';
 
 const Exhibition = () => {
   return (
