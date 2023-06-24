@@ -2,10 +2,10 @@ import qr from '../assets/qr-artsteps.png';
 
 const Exhibition = () => {
   return (
-    <div className="flex flex-col pt-6 pb-16 md:flex-row md:mx-8 font-poppins gap-8 md:mt-16">
-      <div className="flex flex-col  bg-white w-[300px] md:w-[350px] rounded-3xl px-4 mt-4 mx-auto">
-        <div className="bg-custgreen rounded-3xl p-4 mt-4">
-          <img className="my-2" src={qr} alt="qr" />
+    <div className="flex flex-col pt-6 mb-16 md:mb-32 md:flex-row md:mx-8 font-poppins gap-8 md:mt-16">
+      <div className="flex flex-col  bg-white w-[300px] md:w-[285px] rounded-3xl px-4 mt-4 mx-auto">
+        <div className="bg-custgreen rounded-3xl py-2 px-4 mt-4">
+          <img className="my-2 w-[180px]" src={qr} alt="qr" />
         </div>
         <div className="my-2">
           <h1 className="text-2xl font-bold text-custgreen">Artsteps</h1>
