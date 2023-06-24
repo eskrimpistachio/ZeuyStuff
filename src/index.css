@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scroll::-webkit-scrollbar {
+    background: white;
+    width: 10px;
+    /* border-radius :999px ; */
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    background: #345333;
+    /* border-radius :999px ; */
+}
+
+html::-webkit-scrollbar {
+    background: white;
+    width: 10px;
+    /* border-radius :999px ; */
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #345333;
+    border-radius :999px ;
+}
+
+
+
